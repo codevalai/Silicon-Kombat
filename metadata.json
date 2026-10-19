@@ -1,0 +1,6 @@
+{
+  "name": "Silicon Kombat: Sovereign Zenith",
+  "description": "3D WebGL arcade fighting engine where 20 tech founders battle for global silicon supremacy, compute clusters, and sovereign AGI dominance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
